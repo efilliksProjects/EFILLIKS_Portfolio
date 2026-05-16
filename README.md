@@ -1,6 +1,6 @@
-# EF Technologies — Portfolio Website
+# EFILLIKS — Portfolio Website
 
-Production-ready portfolio site for a full-stack tech services company with software, hardware/IoT, and a proprietary LMS-like platform (EF Learn).
+Production-ready portfolio site for a full-stack tech services company with software, hardware/IoT, and a proprietary LMS-like platform (EFILLIKS Learn).
 
 ---
 
