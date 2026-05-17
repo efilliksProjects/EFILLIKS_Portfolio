@@ -2,6 +2,7 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
+Disallow: http://efilliks.com/
 Allow: /#home/
 Allow: /#work/
 Allow: /#services/
