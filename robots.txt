@@ -2,4 +2,9 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
+Allow: /#home/
+Allow: /#work/
+Allow: /#services/
+Allow: /#about/
+Allow: /#platform/
 Sitemap: https://www.efilliks.com/sitemap.xml
