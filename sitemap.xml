@@ -8,7 +8,7 @@
     <priority>1.0</priority>
   </url>
 
-  <url>
+  <!-- <url>
     <loc>https://www.efilliks.com/#about</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -41,6 +41,6 @@
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
-  </url>
+  </url> -->
 
 </urlset>
